@@ -1,4 +1,4 @@
-![example](https://github.com/creetz/Start-MessageTrackingLog/blob/master/example.png)
+![example](https://github.com/creetz/Start-MessageTrackingLog/blob/master/pic1.png)
 
 # Start-MessageTrackingLog
   .SYNOPSIS
